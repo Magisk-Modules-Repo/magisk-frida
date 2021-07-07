@@ -1,6 +1,6 @@
 id=magisk-frida
 name=MagiskFrida
-version=14.2.18-1
-versionCode=142181
+version=15.0.0-1
+versionCode=15001
 author=ViRb3
 description=Run frida-server on boot
